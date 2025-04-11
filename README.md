@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bobschlowinskii@gmail.com**
 
-- ⚡ Fun fact **I do teeth drumming**
+- ⚡ Fun fact **i am a very uninteresting person shut up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theinfamousben&show_icons=true&theme=dark&locale=en" alt="theinfamousben" /></p>
 
-yes, i stole this format, sue me ;-)
+yes, i stole this format, sue me :3
