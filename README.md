@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Unity, C#, and all that good stuff**
 
-- 👯 I’m looking to collaborate on [Pretty much anything!](mailto:bobschlowinskii@gmail.com)
+- 👯 I’m looking to collaborate on Pretty much anything
 
-- 📫 How to reach me **bobschlowinskii@gmail.com**
+- 📫 How to reach me **benjamin.mueller@bsstudios.org**
 
 - ⚡ Fun fact **i am a very uninteresting person shut up**
 
